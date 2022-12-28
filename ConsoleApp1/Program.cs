@@ -10,6 +10,7 @@ namespace ConsoleApp1
 {
     internal class Program
     {
+        //fgegwegw
         static void Main(string[] args)
         {
         }
