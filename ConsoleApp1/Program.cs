@@ -12,6 +12,8 @@ namespace ConsoleApp1
     {
         //fgegwegw
         //2516511
+        //126984
+        //fasfsafas
         static void Main(string[] args)
         {
         }
